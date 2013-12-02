@@ -1,0 +1,4 @@
+C:\FionDoc\GitWorkSpace\CINetTest\bin\Debug\CINetTest.exe
+C:\FionDoc\GitWorkSpace\CINetTest\bin\Debug\CINetTest.pdb
+C:\FionDoc\GitWorkSpace\CINetTest\obj\x86\Debug\CINetTest.exe
+C:\FionDoc\GitWorkSpace\CINetTest\obj\x86\Debug\CINetTest.pdb
